@@ -1,0 +1,29 @@
+                                            PENSAMENTO COMPUTACIONAL
+
+ Objetico Geral
+
+Apresentar os conceitos que caracterizam o pensamento computacional, permitindo que o Dev entenda o
+que significa pensar computacionalmente.
+
+O que é Pensamento computacional?
+é uma habilidade generalista e que pode ser aplicada em  qualquer contexto, até mesmo na vida.
+
+
+baseados em 4 pilares que são: 
+
+Decomposição(dividir o problema em partes menores)
+
+Reconhecimento de padrões(reconhecer comportamento ou estruturas que se repitam )
+
+Abstração
+(Processo intelectual de isolamento de um objeto da realidade ou seja objetos atraves de características e pontos essenciais  )
+
+Design de algoritmo (descrever passoa a passo uma solução para resolver um problema)
+
+
+O que é Raciocínio lógico? 
+
+É uma forma de pensamento estruturado, ou raciocínio, 
+que permite encontrar a conclusão ou determinar a resolução
+de um problema.
+

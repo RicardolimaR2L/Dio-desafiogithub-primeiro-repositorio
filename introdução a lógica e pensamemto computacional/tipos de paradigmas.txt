@@ -1,0 +1,75 @@
+
+
+
+Orientação a objetos 
+( modelo de análise, projeto e programação
+  de software baseado na composição e interação
+  entre diversas unidades,chamadas de 'objetos'.)
+
+é análogo ao mundo real.
+
+o que é um objeto?
+"um objeto é descrito por caracteristicas especificas, comportamentos e estado"
+
+exemplo : CANETA
+
+
+ATRIBUTOS      MÉTODOS           ESTADOS
+   
+
+o que tenho, sou capaz de fazer, como faço.
+
+modelo         escrever           tampada     
+cor            desenhar           destampada
+carga          rabiscar           em uso
+tampa          pintar
+ponta          destampar
+
+
+PILARES DE ORIENTAÇÃO A OBJETOS
+
+Herança 
+
+Encapsulamento
+
+Polimorfismo
+
+Abstração
+
+
+
+POO (reuso de código)
+
+PE  (problemas especificos e diretos)
+
+
+
+
+
+
+
+Procedural
+(chamadas sucessivas e procedimentos separados)
+
+
+Funcional 
+(instruções são baseadas em funções)
+
+Estruturado (estruturas de blocos aninhados)
+conceitos:
+
+*sequencia 
+
+*decisão(teste lógico)
+
+*iteraçao(funções,laços e condições)
+
+
+Computaçao distribuida 
+(funções executadas de forma independente)
+
+
+
+Lógico
+(é expressar programas na forma de lógica simbólica e 
+usar um processo de inferência lógica para produzir resultados.)
